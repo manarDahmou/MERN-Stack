@@ -3,7 +3,7 @@ import { Box, styled, Typography, Link } from '@mui/material';
 import { GitHub, Instagram, Email } from '@mui/icons-material';
 
 const Banner = styled(Box)`
-    background-image: url(https://www.wallpapertip.com/wmimgs/23-236943_us-wallpaper-for-website.jpg);
+    background-image: url(https://d2ykdomew87jzd.cloudfront.net/certifications/_1200x630_crop_center-center_82_none/62790/Blog.jpg?mtime=1653678067);
     width: 100%;
     height: 50vh;
     background-position: left 0px bottom 0px;

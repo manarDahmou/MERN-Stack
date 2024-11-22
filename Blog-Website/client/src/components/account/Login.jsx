@@ -32,7 +32,7 @@ const Wrapper = styled(Box)`
 
 const LoginButton = styled(Button)`
     text-transform: none;
-    background: #FB641B;
+    background: #20B2AA;
     color: #fff;
     height: 48px;
     border-radius: 2px;
@@ -80,7 +80,7 @@ const Login = ({ isUserAuthenticated }) => {
     const navigate = useNavigate();
     const { setAccount } = useContext(DataContext);
 
-    const imageURL = 'https://www.sesta.it/wp-content/uploads/2021/03/logo-blog-sesta-trasparente.png';
+    const imageURL = 'https://gudlogo.com/wp-content/uploads/2019/04/logo-blog-13.png';
 
     useEffect(() => {
         showError(false);
